@@ -1,2 +1,2 @@
-# Tutorial
+# tutorial
 Tutorial for Git Hub
